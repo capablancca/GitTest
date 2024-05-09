@@ -7,6 +7,6 @@ public class Test3 {
     }
 
     public void print1(){
-        System.out.println("Hello from print1");
+        System.out.println("Hello from print1 method");
     }
 }
