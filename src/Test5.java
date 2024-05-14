@@ -3,7 +3,7 @@ public class Test5 {
         System.out.println("test5 added5");
     }
 
-    public void print1(){
-        System.out.println("printing from print1");
+    public void print2(){
+        System.out.println("printing from print2!");
     }
 }
