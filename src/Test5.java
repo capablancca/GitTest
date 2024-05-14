@@ -9,7 +9,4 @@ public class Test5 {
     public void print3(){
         System.out.println("Hello from print3!");
     }
-    public void print4(){
-        System.out.println("Hello from print4!");
-    }
 }
