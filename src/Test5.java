@@ -6,4 +6,7 @@ public class Test5 {
     public void print2(){
         System.out.println("printing from print2!");
     }
+    public void print3(){
+        System.out.println("Hello from print3!");
+    }
 }
