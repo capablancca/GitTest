@@ -10,6 +10,6 @@ public class Test5 {
         System.out.println("Hello from print3!");
     }
     public void print5(){
-        System.out.println("Hello from print5!");
+        System.out.println("Hello from print5!!#");
     }
 }
