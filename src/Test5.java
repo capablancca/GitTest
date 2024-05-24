@@ -12,4 +12,7 @@ public class Test5 {
     public void print5(){
         System.out.println("Hello from print5!");
     }
+    public void print6(){
+        System.out.println("Hello from print 6!!!!!@");
+    }
 }
