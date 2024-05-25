@@ -13,6 +13,8 @@ public class Test5 {
         //Hello world
         System.out.println("Hello from print5!");
     }
+    public void print11(){
+    }
     public void print9(){
         
     }
