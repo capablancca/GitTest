@@ -13,6 +13,9 @@ public class Test5 {
         //Hello world
         System.out.println("Hello from print5!");
     }
+    public void print10(){
+        System.out.println("print10 123");
+    }
     public void print9(){
         
     }
