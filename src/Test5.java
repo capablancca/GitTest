@@ -13,6 +13,9 @@ public class Test5 {
         //Hello world
         System.out.println("Hello from print5!");
     }
+    public void print9(){
+        
+    }
     public void print7(){
         System.out.println("In print7 method");
         System.out.println("Edited by luppin");
