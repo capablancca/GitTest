@@ -14,7 +14,6 @@ public class Test5 {
         System.out.println("Hello from print5!");
     }
     public void print7(){
-        System.out.println("In print7 method");
         System.out.println("Hellow from print 7");
     }
     public void print6(){
