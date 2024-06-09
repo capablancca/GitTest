@@ -11,4 +11,8 @@ public class Test3 {
     public void print12(){
         System.out.println("Hello from print1 method");
     }
+
+    public void helloworld(){
+        System.out.println("Hello from hello world method");
+    }
 }
